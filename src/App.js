@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import Header from './components/Header';
 import About from './components/About';
@@ -21,5 +22,4 @@ class App extends Component {
       </div>
     );
   }
-}
 export default App;
